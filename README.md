@@ -4,6 +4,11 @@ A simple React + Tailwind v4 app for checking real-time weather conditions using
 
 ---
 
+## 🔗 Live Demo
+[View the live app →](https://weatherhai.netlify.app/)
+
+---
+
 ## 🚀 Features
 - Search weather for any city
 - Dynamic background that changes with weather conditions
