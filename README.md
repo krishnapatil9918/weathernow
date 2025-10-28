@@ -6,7 +6,7 @@ A modern, minimal, and responsive **React + Tailwind CSS** application to check 
 
 ## 🔗 Live Demo
 
-👉 **[View the Live App](https://weatherhai.netlify.app/)**
+👉 **[View the Live App](https://weatherightnow.netlify.app/)**
 
 ---
 
